@@ -1,7 +1,7 @@
 {
 	"plugins": [
-		"/usr/local/lib/node_modules/stylelint-scss/dist/index.js",
-		"/usr/local/lib/node_modules/stylelint-order/index.js"
+		"stylelint-scss/dist/index.js",
+		"stylelint-order/index.js"
 	],
 	"rules": {
 		"indentation": "tab",
