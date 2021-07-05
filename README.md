@@ -8,7 +8,7 @@ My lint settings for SCSS using stylelint with scss and order plugins
 Install via npm either globally or into specific projects, depending on your needs.
 
 ```sh
-npm install stylelint stylelint-scss stylelint-order
+npm install --save-dev stylelint stylelint-scss stylelint-order
 ```
 
 ## Usage
