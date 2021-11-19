@@ -1,7 +1,9 @@
 {
 	"plugins": [
-		"stylelint-scss/dist/index.js",
 		"stylelint-order/index.js"
+	],
+	"extends: [
+		"stylelint-config-standard-scss"
 	],
 	"rules": {
 		"indentation": "tab",
